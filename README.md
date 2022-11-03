@@ -1,3 +1,6 @@
+# DEPRECATION WARNING
+This Ansible role is deprecated in favor of collection [`almaops.common`](https://github.com/almaops/ansible-collection-common/tree/master/roles/template) which is advised to be used instead.
+
 almaops.template
 =========
 
